@@ -1,6 +1,20 @@
-# mp3
+# Music Player App
 
-Esta es una aplicacion de reproductor mp3
+Este proyecto es una aplicación de reproductor de música desarrollada como parte de mi aprendizaje en programación móvil. Me inspiré en varios recursos educativos, incluyendo tutoriales y documentación técnica, para construir esta aplicación.
+
+## Inspiración
+
+La implementación se basa en conceptos aprendidos de tutoriales y guías relacionadas con el desarrollo de aplicaciones móviles en Flutter. Agradezco a la comunidad y a los creadores de contenido que comparten su conocimiento de manera accesible.
+
+## Características Principales
+
+- Reproducción de música desde archivo local.
+- Interfaz de usuario elegante con filtros y efectos visuales.
+- Control de reproducción mediante controles de reproducción y deslizadores interactivos.
+
+## Futuras Mejoras
+
+Planeo continuar mejorando esta aplicación agregando nuevas funcionalidades y optimizando el código. ¡Toda contribución y sugerencia son bienvenidas!
 
 ## Getting Started
 
