@@ -12,9 +12,16 @@ La implementación se basa en conceptos aprendidos de tutoriales y guías relaci
 - Interfaz de usuario elegante con filtros y efectos visuales.
 - Control de reproducción mediante controles de reproducción y deslizadores interactivos.
 
+## ScreenShoots
+<img width="400" alt="app" src="Screenshots/MusicAppScreenShoot.jpeg">
+
 ## Futuras Mejoras
 
 Planeo continuar mejorando esta aplicación agregando nuevas funcionalidades y optimizando el código. ¡Toda contribución y sugerencia son bienvenidas!
+Mejora 1: extraer music tracks de alguna base de datos, o de discord.
+Mejora 2: extraer albums de los elementos musicales de alguna base de datos, o api.
+Mejora 3: agregar navegacion entre los elementos musicales.
+
 
 ## Getting Started
 
