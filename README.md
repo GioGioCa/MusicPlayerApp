@@ -13,7 +13,7 @@ La implementación se basa en conceptos aprendidos de tutoriales y guías relaci
 - Control de reproducción mediante controles de reproducción y deslizadores interactivos.
 
 ## ScreenShoots
-<img width="400" alt="app" src="Screenshots/MusicAppScreenShoot.jpeg">
+<img width="400" alt="app" src="Screenshoots/MusicAppScreenShoot.jpeg">
 
 ## Futuras Mejoras
 
